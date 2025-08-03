@@ -1,4 +1,4 @@
-# 🏆 John Daniel Dondlinger Portfolio
+# 🏴‍☠️ John Daniel Dondlinger Portfolio
 
 ## 🧠 GitHub Activity Highlights (2024-2025)
 
@@ -81,3 +81,16 @@
 
 ![Demo](https://user-images.githubusercontent.com/your-user-id/demo-placeholder.gif)
 
+---
+
+## 🏴‍☠️ The Rogue Developer
+
+- **Unconventional:** Operates without directives or instructions.
+- **Independent:** Builds impactful tools by breaking norms.
+- **Creative:** Solves problems with a rebellious edge.
+
+---
+
+## 📢 Call to Action
+
+Support a developer who thrives on independence and creativity. Your sponsorship fuels innovation and keeps these tools accessible to everyone.
