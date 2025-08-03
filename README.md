@@ -94,3 +94,14 @@
 ## 📢 Call to Action
 
 Support a developer who thrives on independence and creativity. Your sponsorship fuels innovation and keeps these tools accessible to everyone.
+
+---
+
+## 🔗 Key Links
+
+- [GitHub Sponsors Page](https://github.com/sponsors/yavru421)
+- [VSEndless-Render-Engine-blender4.3-](https://github.com/yavru421/VSEndless-Render-Engine-blender4.3-)
+- [llama-powershell-sdk](https://github.com/yavru421/llama-powershell-sdk)
+- [Estimata-LLaMA](https://github.com/yavru421/Estimata-LLaMA)
+- [SpielbergAICloneVideoReview](https://github.com/yavru421/SpielbergAICloneVideoReview)
+- [executa-llama](https://github.com/yavru421/executa-llama)
