@@ -1,107 +1,40 @@
-# 🏴‍☠️ John Daniel Dondlinger Portfolio
+# 👋 Hey there, I'm John Dondlinger (aka yavru421)
 
-## 🧠 GitHub Activity Highlights (2024-2025)
+🔧 Independent software engineer, carpenter, VFX artist, and automation nerd based in Wisconsin Rapids, WI.  
+🧠 I build LLM-powered tools that serve real trades—construction estimators, CLI tinkerers, drone editors, and terminal devs.  
+🛠️ Creator of [Estimata-LLaMA](https://github.com/yavru421/estimata-llama), [llama-powershell-sdk](https://github.com/yavru421/llama-powershell-sdk), [Groqulator](https://github.com/yavru421/groqulator), and [VSEndless](https://github.com/yavru421/vsendless).
 
-### 🚀 Key Contributions
+📌 I value clarity over hype, control over bloat, and tools that do the damn job.
 
-1. **`VSEndless-Render-Engine-blender4.3-`**
-   - **Impact:** Revolutionized Blender's Video Sequence Editor (VSE) with AI-powered rendering and FFmpeg integration.
-   - **Achievements:**
-     - Refactored for modern Blender 4.3 compatibility.
-     - Introduced VSEndless2.0 with Groq AI for enhanced performance.
-     - Delivered user-friendly examples and documentation.
+## ❤️ Support My Work
 
-2. **`llama-powershell-sdk`**
-   - **Impact:** Empowered developers with a high-performance PowerShell SDK for LLaMA API integration.
-   - **Achievements:**
-     - Automated setup with `install-all.bat`.
-     - Comprehensive README updates for accessibility.
-     - Initial release included robust tools, tests, and documentation.
+If you want to see more AI tooling that isn't locked behind a subscription or bloated with nonsense, consider sponsoring.
 
-3. **`Estimata-LLaMA`**
-   - **Impact:** Simplified construction and general contracting with an AI bid assistant.
-   - **Achievements:**
-     - Unified API and GUI dashboard for seamless user experience.
-     - Enhanced project maintainability with `.gitignore` and dependency management.
+Your support helps me:
+- Build LLM-integrated estimation and automation tools for the trades
+- Keep CLI and PowerShell users in the loop on modern AI
+- Deliver free, open tools like Estimata-LLaMA, llama-powershell-sdk, and VSEndless
 
-4. **`SpielbergAICloneVideoReview`**
-   - **Impact:** Brought professional video critique to creators using Meta-LLaMA AI analysis.
-   - **Achievements:**
-     - Delivered a fully functional application with detailed documentation.
-     - Iterative README updates for clarity and usability.
-
-5. **`executa-llama`**
-   - **Impact:** Enabled conversational command execution on remote systems.
-   - **Achievements:**
-     - Developed Llamatrama Agent with tools and logs.
-     - Improved security with `.gitignore` updates.
+🔗 Sponsor here → [github.com/sponsors/yavru421](https://github.com/sponsors/yavru421)
 
 ---
 
-## ❤️ Why Sponsor This Work?
+## 🌐 Projects
 
-- **Real-World Value:**
-  - Saves time and reduces costs with offline-capable, open-source tools.
-  - Avoids vendor lock-in by prioritizing open standards and accessibility.
-- **Your Support Enables:**
-  - Faster development of new features.
-  - Expanded documentation and user support.
-  - Open availability for the global developer community.
+### Estimata-LLaMA
+LLM-powered bid estimator for construction pros
 
----
+### llama-powershell-sdk
+Run Meta’s LLaMA models directly from PowerShell
 
-## 💵 Sponsor Tiers and Benefits
+### VSEndless
+FFmpeg + Blender render pipeline for video editing automation
 
-- **$5/mo – Supporter:** Name listed in README.
-- **$20/mo – Priority:** Bug/issue triage.
-- **$50/mo – Collaborator:** Feature request input and feedback.
-- **$100/mo – Partner:** Early access to alpha features or direct collaboration.
-
-[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-blue)](https://github.com/sponsors/yavru421)
+### Groqulator
+A voice-based Streamlit calculator powered by Groq
 
 ---
 
-## 🗺️ Roadmap
+## 🧬 About Me
 
-- [ ] Add CLI voice-to-command support.
-- [ ] FFmpeg + Whisper batch automation wizard.
-- [ ] GUI for AI-powered footage review.
-
----
-
-## 🧑‍💻 About the Creator
-
-- **Skills:** Python, Rust, PowerShell, AI agents, Blender, FFmpeg.
-- **Location:** Based in Wisconsin Rapids, WI.
-- **Notable Projects:** VSEndless, llama-powershell-sdk, Estimata-LLaMA, groqee/vfjd, and more.
-
----
-
-## 📸 Demo and Screenshots
-
-![Demo](https://user-images.githubusercontent.com/your-user-id/demo-placeholder.gif)
-
----
-
-## 🏴‍☠️ The Rogue Developer
-
-- **Unconventional:** Operates without directives or instructions.
-- **Independent:** Builds impactful tools by breaking norms.
-- **Creative:** Solves problems with a rebellious edge.
-
----
-
-## 📢 Call to Action
-
-Support a developer who thrives on independence and creativity. Your sponsorship fuels innovation and keeps these tools accessible to everyone.
-
----
-
-## 🔗 Key Links
-
-- [GitHub Sponsors Page](https://github.com/sponsors/yavru421)
-- [VSEndless-Render-Engine-blender4.3-](https://github.com/yavru421/VSEndless-Render-Engine-blender4.3-)
-- [llama-powershell-sdk](https://github.com/yavru421/llama-powershell-sdk)
-- [Estimata-LLaMA](https://github.com/yavru421/Estimata-LLaMA)
-- [SpielbergAICloneVideoReview](https://github.com/yavru421/SpielbergAICloneVideoReview)
-- [executa-llama](https://github.com/yavru421/executa-llama)
+Based in Wisconsin Rapids, I work across software, carpentry, and creative tech. I’ve shipped VFX pipelines, remodeled apartments, automated bid systems, and developed terminal AI agents. I believe in old-school craftsmanship—whether it’s with nails or neural nets.
